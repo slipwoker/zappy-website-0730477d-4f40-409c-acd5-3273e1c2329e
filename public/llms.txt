@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תקליטן דתי לחתונה בהפרדה מלאה, בר מצווה ואירועי יוקרה. אטרקציות מרהיבות, מוזיקה ברמה הגבוהה ביותר, ואווירה שמכבדת את הערכים שלכם. הצטרפו למשפחות שכבר בחרו בנו!
+
+### שירותים
+https://example.com/services
+גלו את מגוון שירותי התקליטנות לאירועים דתיים: חתונות עם הפרדה מלאה, בר מצווה, הפקות אירועים ואטרקציות מיוחדות. כל שירות מותאם אישית לאירוע שלכם ברמת יוקרה ללא פשרות.
+
+### אודות
+https://example.com/about
+עודד קדוש הוא תקליטן דתי מוביל לאירועי יוקרה עם הפרדה מלאה, עם ניסיון עשיר בחתונות ובר מצווה. גלו את הפילוסופיה, הערכים והמחויבות שהופכים כל אירוע לחוויה אמיתית ובלתי נשכחת.
+
+### צור קשר
+https://example.com/contact
+רוצים תקליטן דתי לחתונה בהפרדה או בר מצווה ברמת יוקרה? צרו קשר עכשיו לייעוץ אישי חינם ובדקו פנויות לתאריך האירוע שלכם. מחכים לכם עם אטרקציות ומוזיקה שיגרמו לכולם לדבר!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
